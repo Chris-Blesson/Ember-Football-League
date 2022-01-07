@@ -4,7 +4,7 @@ module.exports = function(environment) {
     let ENV = {
         modulePrefix: 'Ember-Football-League',
         environment,
-        rootURL: '/',
+        rootURL: '/Ember-Football-League',
         locationType: 'auto',
         EmberENV: {
             FEATURES: {
